@@ -4,7 +4,7 @@ A program to play vr with full-body tracking with just a cellphone and a webcam!
 
 ## What is PhoenixVR?
 
-<img src="sources/demo.gif">Demo gif not disponible yet...</img>
+<img src="/demo.gif">Demo gif not disponible yet...</img>
 
 PhoenixVR is a program that uses a smartphone and a webcam to give a vr full-body tracking experience with 6-degrees of freedom!!
 
@@ -29,6 +29,7 @@ For See The Current Developement, Access The Project Devlog:
 ## Made With ❤️ And:
 [![ZORIN](https://img.shields.io/badge/Zorin_OS_15.3_lite-0CC1F3?style=for-the-badge&logo=Zorin&logoColor=white)](https://zorin.com/)
 [![IDE](https://img.shields.io/badge/Visual_studio_code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
