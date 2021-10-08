@@ -6,7 +6,7 @@ A program to play vr with full-body tracking with just a cellphone and a webcam!
 
 <img src="/demo.gif">Demo gif not disponible yet...</img>
 
-PhoenixVR is a program that uses a smartphone and a webcam to give a vr full-body tracking experience with 6-degrees of freedom!!
+PhoenixVR is a program that uses a smartphone and a webcam to give a vr full-body tracking experience with 6-degrees of freedom and hand tracking!!
 
 ## Download
 
