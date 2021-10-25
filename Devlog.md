@@ -8,4 +8,7 @@
 - fixed my pc :3
 - i pretend to start this project after i finish the 2 module of [cheep](https://github.com/LuanderFarias/Cheep)
 
+## 25/10/2021
+- Started the project!!
+
 # That's All For Now
